@@ -7,6 +7,7 @@
 			"/Users/TD-006/tools/goagent-b08572280d35/local/CA.crt"
 		]
 	},
+	"color_scheme": "Packages/User/color-schemes/Monokai Soda.tmTheme",
 	"font_face": "Monaco",
 	"font_options":
 	[
@@ -21,6 +22,7 @@
 	],
 	"tab_completion": true,
 	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
