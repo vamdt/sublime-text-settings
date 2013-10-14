@@ -1,2 +1,9 @@
 .DS_Store
 *.swp
+
+# sublime text
+*.cache
+
+# package control
+Package Control.last-run
+Package Control.system-ca-bundle
