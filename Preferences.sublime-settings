@@ -1,10 +1,20 @@
 {
+	"certs":
+	{
+		"*":
+		[
+			"goagent",
+			"/Users/TD-006/tools/goagent-b08572280d35/local/CA.crt"
+		]
+	},
 	"font_face": "Monaco",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
 	"font_size": 16.0,
+	"http_proxy": "http://127.0.0.1:8087",
+	"https_proxy": "http://127.0.0.1:8087",
 	"ignored_packages":
 	[
 		"Vintage"
