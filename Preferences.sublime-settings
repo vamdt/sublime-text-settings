@@ -20,6 +20,7 @@
 	[
 		"Vintage"
 	],
+	"show_full_path": true,
 	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",

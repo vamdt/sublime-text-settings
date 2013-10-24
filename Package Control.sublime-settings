@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"EditorConfig",
 		"Git",
 		"Package Control",
 		"SideBarEnhancements",
