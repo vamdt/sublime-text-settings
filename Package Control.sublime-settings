@@ -3,8 +3,11 @@
 	[
 		"EditorConfig",
 		"Git",
+		"MarkdownEditing",
 		"Package Control",
+		"Sass",
 		"SideBarEnhancements",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Tmux"
 	]
 }
