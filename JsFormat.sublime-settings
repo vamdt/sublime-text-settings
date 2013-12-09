@@ -1,6 +1,5 @@
 {
   // exposed jsbeautifier options
-  "indent_size": 2,
   "indent_with_tabs": false,
   "preserve_newlines": true,
   "max_preserve_newlines": 4,
