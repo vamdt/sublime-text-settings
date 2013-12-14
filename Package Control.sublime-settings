@@ -2,12 +2,16 @@
 	"installed_packages":
 	[
 		"EditorConfig",
+		"Emmet",
 		"Git",
+		"JsFormat",
 		"MarkdownEditing",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"Theme - Soda",
-		"Tmux"
+		"Tmux",
+		"Vagrant"
 	]
 }

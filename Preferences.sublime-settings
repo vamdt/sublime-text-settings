@@ -7,23 +7,24 @@
 			"/Users/TD-006/tools/goagent-b08572280d35/local/CA.crt"
 		]
 	},
-	"color_scheme": "Packages/User/color-schemes/Monokai Soda.tmTheme",
-	"font_face": "Monaco",
+	"color_scheme": "Packages/User/color-schemes/Espresso Soda.tmTheme",
+	"font_face": "consolas",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 16.0,
+	"font_size": 14.0,
 	"http_proxy": "http://127.0.0.1:8087",
 	"https_proxy": "http://127.0.0.1:8087",
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Vagrant"
 	],
 	"show_full_path": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
