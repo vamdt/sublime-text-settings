@@ -4,7 +4,7 @@
 		"*":
 		[
 			"goagent",
-			"/Users/TD-006/tools/goagent-b08572280d35/local/CA.crt"
+			"/Users/TD-006/tools/goagent-goagent-6fad435/local/CA.crt"
 		]
 	},
 	"color_scheme": "Packages/User/color-schemes/Espresso Soda.tmTheme",
@@ -19,7 +19,8 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Vagrant"
+		"Vagrant",
+		"Makefile"
 	],
 	"show_full_path": true,
 	"tab_completion": true,

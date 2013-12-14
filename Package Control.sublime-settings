@@ -1,15 +1,23 @@
 {
 	"installed_packages":
 	[
+		"CoffeeScript",
+		"Dart",
 		"EditorConfig",
 		"Emmet",
 		"Git",
 		"JsFormat",
+		"Jade",
+		"JsFormat",
+		"LiveScript",
+		"Makefile Improved",
 		"MarkdownEditing",
+		"nginx",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"Stylus",
 		"Theme - Soda",
 		"Tmux",
 		"Vagrant"
