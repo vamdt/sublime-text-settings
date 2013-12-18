@@ -30,5 +30,6 @@
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 0
+	"wrap_width": 0,
+	"save_on_focus_lost": true
 }

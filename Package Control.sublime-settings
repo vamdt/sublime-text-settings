@@ -6,7 +6,6 @@
 		"EditorConfig",
 		"Emmet",
 		"Git",
-		"JsFormat",
 		"Jade",
 		"JsFormat",
 		"LiveScript",
@@ -16,8 +15,8 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"Stylus",
+		"SublimeCodeIntel",
 		"Theme - Soda",
 		"Tmux",
 		"Vagrant"
