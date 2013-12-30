@@ -1,10 +1,13 @@
 {
 	"installed_packages":
 	[
+		"AngularJS",
 		"CoffeeScript",
+		"CSSFormat",
 		"Dart",
 		"EditorConfig",
 		"Emmet",
+		"Floobits",
 		"Git",
 		"Jade",
 		"JsFormat",
