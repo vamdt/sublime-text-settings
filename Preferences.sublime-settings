@@ -18,10 +18,12 @@
 	"https_proxy": "http://127.0.0.1:8087",
 	"ignored_packages":
 	[
+		"Stylus",
 		"Vintage",
-		"Vagrant",
-		"Makefile"
+		"Makefile",
+		"Vagrant"
 	],
+	"save_on_focus_lost": true,
 	"show_full_path": true,
 	"tab_completion": true,
 	"tab_size": 2,
@@ -30,6 +32,5 @@
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 0,
-	"save_on_focus_lost": true
+	"wrap_width": 0
 }
