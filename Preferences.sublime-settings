@@ -8,12 +8,12 @@
 		]
 	},
 	"color_scheme": "Packages/User/color-schemes/Espresso Soda.tmTheme",
-	"font_face": "consolas",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 14.0,
+	"font_size": 13.0,
 	"http_proxy": "http://127.0.0.1:8087",
 	"https_proxy": "http://127.0.0.1:8087",
 	"ignored_packages":
