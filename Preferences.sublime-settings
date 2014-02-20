@@ -7,8 +7,7 @@
 			"/Users/TD-006/tools/goagent-goagent-6fad435/local/CA.crt"
 		]
 	},
-  "theme": "Spacegray Eighties.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"font_face": "Monaco",
 	"font_options":
 	[
@@ -26,6 +25,7 @@
 	"show_full_path": true,
 	"tab_completion": true,
 	"tab_size": 2,
+	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
