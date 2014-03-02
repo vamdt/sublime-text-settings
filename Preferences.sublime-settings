@@ -7,7 +7,7 @@
 			"/Users/TD-006/tools/goagent-goagent-6fad435/local/CA.crt"
 		]
 	},
-	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"color_scheme": "Packages/User/color-schemes/base16-eighties.dark.tmTheme",
 	"font_face": "Monaco",
 	"font_options":
 	[
@@ -30,5 +30,6 @@
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 0
+	"wrap_width": 0,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache", ".tmp"]
 }
