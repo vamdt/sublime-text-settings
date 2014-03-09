@@ -8,6 +8,14 @@
 		]
 	},
 	"color_scheme": "Packages/User/color-schemes/base16-eighties.dark.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache"
+	],
 	"font_face": "Monaco",
 	"font_options":
 	[
@@ -30,6 +38,5 @@
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 0,
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache", ".tmp"]
+	"wrap_width": 0
 }
