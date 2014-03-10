@@ -1,12 +1,4 @@
 {
-	"certs":
-	{
-		"*":
-		[
-			"goagent",
-			"/Users/TD-006/tools/goagent-goagent-6fad435/local/CA.crt"
-		]
-	},
 	"color_scheme": "Packages/User/color-schemes/base16-eighties.dark.tmTheme",
 	"folder_exclude_patterns":
 	[
