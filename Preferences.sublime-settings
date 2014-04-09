@@ -19,14 +19,13 @@
 	"https_proxy": "http://127.0.0.1:8087",
 	"ignored_packages":
 	[
-		"Vintage",
-		"Makefile"
+		"Vintage"
 	],
 	"save_on_focus_lost": true,
 	"show_full_path": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	// "theme": "Spacegray Eighties.sublime-theme",
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
