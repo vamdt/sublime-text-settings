@@ -19,8 +19,7 @@
 	"https_proxy": "http://127.0.0.1:8087",
 	"ignored_packages":
 	[
-		"Vintage",
-		"Makefile"
+		"Vintage"
 	],
 	"save_on_focus_lost": true,
 	"show_full_path": true,
