@@ -1,12 +1,4 @@
 {
-	"certs":
-	{
-		"*":
-		[
-			"goagent",
-			"/Users/TD-006/tools/goagent-goagent-6fad435/local/CA.crt"
-		]
-	},
 	"color_scheme": "Packages/User/color-schemes/Tomorrow.tmTheme",
 	"font_face": "Source Code Pro",
 	"font_options":
@@ -20,7 +12,6 @@
 	"ignored_packages":
 	[
 		"Stylus",
-		"Vintage",
 		"Makefile",
 		"Vagrant"
 	],
@@ -33,5 +24,9 @@
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 0
+	"wrap_width": 0,
+	"vintage_start_in_command_mode": true,
+  "match_brackets_angle": true,
+  "rulers": [ 80 ],
+  "highlight_line": true
 }
