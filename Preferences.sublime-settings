@@ -7,13 +7,14 @@
 			"/Users/TD-006/tools/goagent-goagent-6fad435/local/CA.crt"
 		]
 	},
-	"color_scheme": "Packages/User/color-schemes/Espresso Soda.tmTheme",
+	"color_scheme": "Packages/User/color-schemes/Tomorrow.tmTheme",
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 13.0,
+	"font_size": 12.0,
+	"highlight_modified_tabs": true,
 	"http_proxy": "http://127.0.0.1:8087",
 	"https_proxy": "http://127.0.0.1:8087",
 	"ignored_packages":
