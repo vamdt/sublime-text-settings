@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/color-schemes/Smyck.tmTheme",
+	"color_scheme": "Packages/User/color-schemes/base16-eighties.dark.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -14,20 +14,12 @@
 		"subpixel_antialias"
 	],
 	"font_size": 16.0,
-	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"http_proxy": "http://127.0.0.1:8087",
 	"https_proxy": "http://127.0.0.1:8087",
 	"ignored_packages":
 	[
-		"Vintage",
-		"Makefile"
-	],
-	"match_brackets_angle": true,
-	"rulers":
-	[
-		80,
-		120
+		"Vintage"
 	],
 	"save_on_focus_lost": true,
 	"show_full_path": true,
@@ -37,7 +29,11 @@
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
-	"vintage_start_in_command_mode": true,
 	"word_wrap": true,
-	"wrap_width": 0
+	"wrap_width": 0,
+	"highlight_modified_tabs": true,
+	"match_brackets_angle": true,
+  "rulers": [ 80, 120 ],
+  "highlight_line": true,
+  "vintage_start_in_command_mode": true
 }
