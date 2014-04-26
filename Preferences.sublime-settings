@@ -1,5 +1,7 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/color-schemes/Smyck.tmTheme",
+	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -21,7 +23,8 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Makefile"
+		"Makefile",
+		"EditorConfig"
 	],
 	"match_brackets_angle": true,
 	"rulers":
