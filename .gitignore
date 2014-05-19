@@ -7,3 +7,5 @@
 # package control
 Package Control.last-run
 Package Control.system-ca-bundle
+
+*.bak
