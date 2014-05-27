@@ -23,8 +23,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Makefile",
-		"EditorConfig"
+		"Makefile"
 	],
 	"match_brackets_angle": true,
 	"rulers":
