@@ -1,9 +1,9 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/color-schemes/Smyck.tmTheme",
-	"fade_fold_buttons": false,
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": false,
+	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -11,7 +11,6 @@
 		".hg",
 		"CVS",
 		".sass-cache"
-		".bak"
 	],
 	"font_face": "Monaco",
 	"font_options":
