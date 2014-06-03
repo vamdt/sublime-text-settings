@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"AngularJS",
 		"Better CoffeeScript",
 		"CoffeeScript",
