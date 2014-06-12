@@ -24,8 +24,7 @@
 	"https_proxy": "http://127.0.0.1:8087",
 	"ignored_packages":
 	[
-		"Vintage",
-		"Makefile"
+		"Vintage"
 	],
 	"match_brackets_angle": true,
 	"rulers":
@@ -34,10 +33,14 @@
 		120
 	],
 	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"show_line_endings": true,
 	"show_full_path": true,
 	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",
+	"tree_animation_enabled": false,
+	"animation_enabled": false,
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"use_tab_stops": true,
