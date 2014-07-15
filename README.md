@@ -2,13 +2,15 @@ sublime-text-settings
 =====================
 
 my personal editor settings, for backup
+currently, i use st3
 
 ## Packages
+  * Alignment
   * AngularJS
   * Better CoffeeScript
   * CoffeeScript
   * CSSFormat
-  * CTags
+  * DocBlockr
   * EditorConfig
   * Emmet
   * Git
@@ -20,8 +22,6 @@ my personal editor settings, for backup
   * jQuery
   * JsFormat
   * LiveScript
-  * Makefile Improved
-  * MarkdownEditing
   * nginx
   * Package Control
   * Sass
@@ -29,9 +29,14 @@ my personal editor settings, for backup
   * SideBarEnhancements
   * Stylus
   * Theme - Soda
-  * Theme - Spacegray
+  * Theme - Nil
   * Tmux
   * Zen Tab
+
+## Themes
+  * [Nil](github.com/nilium/st2-nil-theme)
+  * [Soda](github.com/buymeasoda/soda-theme)
+  * [Spacegray](github.com/kkga/spacegray)
 
 ## Color schemes
   * [Spacegray](github.com/kkga/spacegray)
