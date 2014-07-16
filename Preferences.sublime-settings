@@ -49,5 +49,7 @@
 	"use_tab_stops": true,
 	"vintage_start_in_command_mode": true,
 	"word_wrap": true,
-	"wrap_width": 0
+	"wrap_width": 0,
+  "alignment_chars": ["=", ":"],
+  "alignment_space_chars": ["=", ":"],
 }
