@@ -22,6 +22,7 @@ currently, i use st3
   * JavaScript Snippets
   * jQuery
   * JsFormat
+  * JSHint
   * LiveScript
   * nginx
   * Package Control
