@@ -43,7 +43,6 @@
 	"match_brackets_angle": true,
 	"rulers":
 	[
-		80,
 		100,
 		120
 	],
