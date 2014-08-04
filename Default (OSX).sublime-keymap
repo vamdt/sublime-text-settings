@@ -1,0 +1,8 @@
+[
+  // add semicolon to line ends, and got to new line
+  { 
+    "keys": ["ctrl+;"], 
+    "command": "run_macro_file", 
+    "args": {"file": "Packages/User/sem.sublime-macro"}
+  }
+]
