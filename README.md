@@ -46,3 +46,8 @@ currently, i use st3
   * [Obsidian](github.com/mekwall/obsidian-color-scheme/tree/master/textmate)
   * [Tomorrow](github.com/theymaybecoders/sublime-tomorrow-theme)
   * [Smyck](github.com/hukl/Smyck-Color-Scheme)
+
+## Custom snippets
+
+## Custom macros
+  * [semicolon](macros/semicolon.sublime-macro) Add Semicolon, newline to eol
