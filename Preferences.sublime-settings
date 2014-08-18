@@ -25,7 +25,9 @@
 		".git",
 		".hg",
 		"CVS",
-		".sass-cache"
+		".sass-cache",
+		".swp",
+		".DS_Store"
 	],
 	"font_face": "Monaco",
 	"font_options":
