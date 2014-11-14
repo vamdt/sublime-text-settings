@@ -2,7 +2,6 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"AngularJS",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"CoffeeScript",
@@ -14,25 +13,25 @@
 		"Git",
 		"GitGutter",
 		"Haml",
+		"Handlebars",
 		"Jade",
 		"Jasmine",
 		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JsFormat",
 		"JSHint",
-		"LiveScript",
 		"nginx",
 		"Package Control",
 		"Rails Developer Snippets",
+		"RuboCop",
 		"Sass",
 		"SASS Snippets",
 		"ShowEncoding",
 		"SideBarEnhancements",
-		"Stylus",
 		"sublime-github",
 		"Theme - Nil",
 		"Theme - Soda",
-		"Tmux",
 		"Zen Tabs"
 	]
 }
