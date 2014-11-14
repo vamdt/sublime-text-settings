@@ -10,13 +10,7 @@
 		"args":
 		{
 			"characters": ";"
-		},
-		"command": "insert"
-	},
-	{
-		"args":
-		{
-			"characters": "\n"
+			
 		},
 		"command": "insert"
 	}

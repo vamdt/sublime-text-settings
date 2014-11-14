@@ -2,7 +2,12 @@
   // add semicolon to line ends, and got to new line
   { 
     "keys": ["ctrl+;"], 
-    "command": "run_macro_file", 
+    "command": "run_macro_file",
     "args": {"file": "Packages/User/macros/semicolon.sublime-macro"}
+  },
+  { 
+    "keys": ["super+ctrl+;"], 
+    "command": "run_macro_file", 
+    "args": {"file": "Packages/User/macros/semicolon_and_new_line.sublime-macro"}
   }
 ]
