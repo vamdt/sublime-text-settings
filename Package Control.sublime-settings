@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -15,7 +23,7 @@
 		"Haml",
 		"Handlebars",
 		"Jade",
-		"Jasmine",
+		"Jasmine JS",
 		"JavaScript Snippets",
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
@@ -30,6 +38,7 @@
 		"ShowEncoding",
 		"SideBarEnhancements",
 		"sublime-github",
+		"Tag",
 		"Theme - Nil",
 		"Theme - Soda",
 		"Zen Tabs"
