@@ -2,22 +2,21 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
+		"AngularJS",
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"CodeIgniter Snippets",
 		"CoffeeScript",
 		"CSS Snippets",
 		"CSSFormat",
 		"Cucumber",
 		"DocBlockr",
 		"EditorConfig",
+		"Emmet",
 		"Git",
 		"GitGutter",
 		"Haml",
