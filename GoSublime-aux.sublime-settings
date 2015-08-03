@@ -1,0 +1,11 @@
+{
+	"9o.hist./Users/angl/go/src/github.com/vamdt/hello":
+	[
+		"go run",
+		"go run hello.go",
+		"go build hello.go"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r14.12.06-1",
+	"version": "r14.12.06-1"
+}

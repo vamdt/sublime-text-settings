@@ -11,7 +11,7 @@
 	],
 	"animation_enabled": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/color-schemes/Smyck.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Smyck (SL).tmTheme",
 	"color_scheme_smyck": "Tubnil.tmTheme",
 	"colored_folder_glyphs": true,
 	"detect_slow_plugins": false,
