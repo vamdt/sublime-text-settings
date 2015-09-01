@@ -1,0 +1,62 @@
+{
+	"alignment_chars":
+	[
+		"=",
+		":"
+	],
+	"alignment_space_chars":
+	[
+		"=",
+		":"
+	],
+	"animation_enabled": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/color-schemes/Smyck.tmTheme",
+	"colored_folder_glyphs": true,
+	"detect_slow_plugins": false,
+	"drag_text": false,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		".swp",
+		".DS_Store"
+	],
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 12.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"match_brackets_angle": true,
+	"rulers":
+	[
+		100,
+		120
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"sidebar_folders": true,
+	"tab_completion": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"trim_automatic_white_space": true,
+	"use_tab_stops": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true,
+	"wrap_width": 100
+}
