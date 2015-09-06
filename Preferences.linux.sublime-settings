@@ -11,7 +11,7 @@
 	],
 	"animation_enabled": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/color-schemes/Smyck.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Smyck (SL).tmTheme",
 	"colored_folder_glyphs": true,
 	"detect_slow_plugins": false,
 	"drag_text": false,
@@ -33,7 +33,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12.0,
+	"font_size": 11.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -52,6 +52,8 @@
 	"sidebar_folders": true,
 	"tab_completion": true,
 	"tab_size": 2,
+	"theme": "Nil.sublime-theme",
+	"theme_soda": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"trim_automatic_white_space": true,
