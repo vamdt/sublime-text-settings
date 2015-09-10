@@ -51,6 +51,7 @@
 	"show_full_path": true,
 	"show_line_endings": true,
 	"sidebar_folders": true,
+	"scroll_past_end": true,
 	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Nil.sublime-theme",
