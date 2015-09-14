@@ -47,10 +47,10 @@
 		120
 	],
 	"save_on_focus_lost": true,
+	"scroll_past_end": true,
 	"show_encoding": true,
 	"show_full_path": true,
 	"show_line_endings": true,
-	"scroll_past_end": true,
 	"sidebar_folders": true,
 	"tab_completion": true,
 	"tab_size": 2,
