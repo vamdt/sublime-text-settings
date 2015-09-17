@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+\$response = ResData::genArr();
+try {
+    
+    \$response['data'] = ${2:\$data};
+} catch (Exception \$e) {
+    \$response = array_merge(\$response, ResData::genExArr(\$e));
+}
+echo json_encode(\$response);
+${1}
+]]></content>
+  <tabTrigger>ltry</tabTrigger>
+  <scope>source.php</scope>
+</snippet>
