@@ -1,7 +1,13 @@
 {
 	"bootstrapped": true,
+	"debug": true,
+	"http_proxy": "http://127.0.0.1:7777",
+	"https_proxy": "http://127.0.0.1:7777",
 	"in_process_packages":
 	[
+		"CoffeeScript",
+		"CSSFormat",
+		"ShowEncoding"
 	],
 	"installed_packages":
 	[
@@ -25,6 +31,7 @@
 		"GoSublime",
 		"Haml",
 		"Handlebars",
+		"HTML-CSS-JS Prettify",
 		"Jade",
 		"Jasmine JS",
 		"JavaScript Snippets",

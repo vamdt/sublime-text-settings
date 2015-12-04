@@ -33,11 +33,14 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12.0,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"CoffeeScript",
+		"CSSFormat",
+		"ShowEncoding"
 	],
 	"match_brackets_angle": true,
 	"rulers":
