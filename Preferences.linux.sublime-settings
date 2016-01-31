@@ -28,12 +28,12 @@
 		".swp",
 		".DS_Store"
 	],
-	"font_face": "Source Code Pro",
+	"font_face": "Ubuntu Mono",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -57,11 +57,11 @@
 	"sidebar_folders": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Nil.sublime-theme",
-	"theme_soda": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"trim_automatic_white_space": true,
+	"theme": "Nil.sublime-theme",
+  "theme_soda": "Soda Light.sublime-theme",
 	"use_tab_stops": true,
 	"vintage_start_in_command_mode": true,
 	"word_wrap": true,
